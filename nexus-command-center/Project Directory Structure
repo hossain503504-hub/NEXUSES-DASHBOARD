@@ -1,0 +1,13 @@
+nexus-command-center/
+├── backend/
+│   ├── .env
+│   ├── schema.sql
+│   ├── package.json
+│   └── server.js
+└── frontend/
+    ├── package.json
+    ├── tailwind.config.js
+    ├── src/
+    │   ├── App.jsx
+    │   ├── index.css
+    │   └── main.jsx
